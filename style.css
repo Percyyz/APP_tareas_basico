@@ -15,14 +15,16 @@ button {
     cursor: pointer;
 }
 li {
-    background-color: #fff;
+    background-color: #ffffff;
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 4px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: 1px solid #ddd;
+    width: 400px;
+    margin: 0 auto 10px auto;
 }
 
 li button {
